@@ -1,5 +1,3 @@
-# assetwizard-ci-injector
-Modular asset preset. CI-injected. JetBrains-ready
 # 🚀 AssetWizard CI Injector
 
 Modular asset presets. CI-injected. JetBrains-ready.
@@ -22,5 +20,5 @@ Unlock premium presets, VS Code extension, and telemetry dashboard.
 ## 🛠️ Built For
 JetBrains plugin devs, Android asset workflows, and solo operators who hate config friction.
 
-## 📣 License
+## 📜 License
 MIT for free version. Commercial license included in Pro bundle.
